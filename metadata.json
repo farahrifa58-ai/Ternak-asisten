@@ -1,0 +1,6 @@
+{
+  "name": "Ternak Asisten Pro",
+  "description": "Aplikasi pengelolaan usaha peternakan modern: pantau populasi ternak, hasil panen, penjualan, stok gudang pakan & obat, serta pencatatan keuangan usaha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
